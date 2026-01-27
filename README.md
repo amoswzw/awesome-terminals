@@ -15,7 +15,7 @@ Terminal Emulators
 - [Bobcat](https://github.com/ismail-yilmaz/Bobcat) - A modern, feature-rich, cross-platform terminal emulator built with U++ framework.
 - [Contour](https://contour-terminal.org/) - is a modern, actually fast, modal terminal emulator. It aims to be the daily driver of power users looking for modern terminal features.
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - **[DEPRECATED]** A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [Darktile](https://github.com/liamg/darktile) - a GPU rendered terminal emulator designed for tiling window managers.
+- [Darktile](https://github.com/liamg/darktile) - **[DEPRECATED]** A GPU rendered terminal emulator designed for tiling window managers.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. [https://extraterm.org](https://extraterm.org)
 - [foot](https://codeberg.org/dnkl/foot) - A fast, lightweight and minimalistic Wayland terminal emulator.
 - [Fyne Terminal](https://github.com/fyne-io/terminal) - A graphical terminal emulator for Linux using Fyne
