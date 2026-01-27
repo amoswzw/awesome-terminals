@@ -2,8 +2,8 @@
 Terminal Emulators
 
 ### Android
-- [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
+- [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 
 ### iOS
 - [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - A terminal for iOS, with multiple windows
@@ -26,6 +26,7 @@ Terminal Emulators
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
@@ -52,7 +53,6 @@ Terminal Emulators
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal.
 - [Yakuake](https://www.kde.org/applications/system/yakuake/) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 - [Zutty](https://github.com/tomscii/zutty) - Unicode terminal with correct VT emulation that uses OpenGL ES Compute Shaders.
-- [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 
 ### macOS
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
