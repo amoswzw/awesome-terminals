@@ -2,6 +2,7 @@
 Terminal Emulators
 
 ### Android
+- [Android Terminal](https://source.android.com/docs/whatsnew/android-16-release#virtualization) - A built-in system app for running a Linux development environment within a virtual machine on Android.
 - [Termux](https://termux.com/) - Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 
 ### HarmonyOS
@@ -28,6 +29,7 @@ Terminal Emulators
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies.
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator.
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [kiro](https://github.com/AnmiTaliDev/kiro) - A GTK4 and LibAdwaita terminal emulator designed for the GNOME desktop.
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment.
 - [Mosh](https://github.com/mobile-shell/mosh) - Mobile Shell.
 - [Notty](https://github.com/withoutboats/notty) - **[DEPRECATED]** A new kind of terminal.
